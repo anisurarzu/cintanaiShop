@@ -2,3 +2,34 @@
     width: 120px;
     height: 90px;
 }
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.card img{
+    padding-left: 65px;
+    padding-top: 20px;
+    width: 300px;
+    height:270px;
+    
+}
+.text h5 h6 p{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(221, 221, 226);
+    border-radius: 5px;
+}
+#pale{
+    width: 450px;
+    height: 350px;
+}
+.catbox{
+    box-shadow: 5px 5px 10px gray;
+    padding-left: 65px;
+    border-radius: 60px;
+}
